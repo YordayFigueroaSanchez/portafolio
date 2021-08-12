@@ -8,11 +8,11 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.yfsanchez.portafolio.app</groupId>
-	<artifactId>portafolio</artifactId>
+	<groupId>com.yfsanchez.monedas.app</groupId>
+	<artifactId>monedas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>portafolio</name>
-	<description>Portafolio</description>
+	<name>monedas</name>
+	<description>Monedas</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
